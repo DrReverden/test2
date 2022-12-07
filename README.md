@@ -2,4 +2,4 @@
 
 Add readme
 
-add cnanges for amend
+add cnanges for amend (rewrite)
